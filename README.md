@@ -5,8 +5,8 @@ Tobias Funke Cowsay and fortune-mod addons
 
 Install
 =======
-copy tobias.cow into your cowsay/cows dir
-copy tobias and tobias.dat into your futurne dir
+* copy tobias.cow into your cowsay/cows dir
+* copy tobias and tobias.dat into your futurne dir
 
 Runnig
 ======
