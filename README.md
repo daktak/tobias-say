@@ -8,6 +8,10 @@ Install
 * copy tobias.cow into your cowsay/cows dir
 * copy tobias and tobias.dat into your futurne dir
 
+Updating Quotes
+===============
+    $ strfile tobias tobias.dat
+
 Runnig
 ======
     $ fortune tobias | cowsay -f tobias
